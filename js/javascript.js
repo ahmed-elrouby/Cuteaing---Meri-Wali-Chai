@@ -42,9 +42,9 @@ let Heads=document.querySelector('.heading');
 let icons=document.querySelector('.icons');
 let imgs=
 [
-    "url('../images/zach-lezniewicz-6BhaILEQSls-unsplash.jpg')",
-    "url('../images/oleg-guijinsky-2CRgKZAyPXg-unsplash.jpg')",
-    "url('../images/oriento-0Te1I0WRlvU-unsplash.jpg')"
+    "url('images/zach-lezniewicz-6BhaILEQSls-unsplash.jpg')",
+    "url('images/oleg-guijinsky-2CRgKZAyPXg-unsplash.jpg')",
+    "url('images/oriento-0Te1I0WRlvU-unsplash.jpg')"
 
 ];
 let heads_list=
