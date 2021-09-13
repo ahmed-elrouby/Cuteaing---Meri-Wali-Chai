@@ -42,9 +42,9 @@ let Heads=document.querySelector('.heading');
 let icons=document.querySelector('.icons');
 let imgs=
 [
-    "url('images/zach-lezniewicz-6BhaILEQSls-unsplash.jpg')",
-    "url('images/oleg-guijinsky-2CRgKZAyPXg-unsplash.jpg')",
-    "url('images/oriento-0Te1I0WRlvU-unsplash.jpg')"
+    "url('../images/zach-lezniewicz-6BhaILEQSls-unsplash.jpg')",
+    "url('../images/oleg-guijinsky-2CRgKZAyPXg-unsplash.jpg')",
+    "url('../images/oriento-0Te1I0WRlvU-unsplash.jpg')"
 
 ];
 let heads_list=
@@ -52,7 +52,6 @@ let heads_list=
     "<h1>Crafted from premium quality ingredients</h1>",
     "<h1>Hygiene and Customers Safety is our priority at kiosks</h1>",
     "<h1>The richness of Irani Chai at your convenenience</h1>"
-
 ]
 let counter=0;
 function changeBG()
